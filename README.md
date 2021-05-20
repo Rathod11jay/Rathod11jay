@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rathod11jay
+- 👋 Hi, I’m Rathod jay
 - 👀 I’m interested in Web designing!
 - 🌱 I’m currently learning HTML,CSS & JS
 - 💞️ I’m looking to collaborate on ...
